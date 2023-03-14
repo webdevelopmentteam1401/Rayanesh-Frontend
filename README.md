@@ -1,3 +1,3 @@
 # Front-end
 
-Rayanesh Site Front-end
+Rayanesh Site Frontend
